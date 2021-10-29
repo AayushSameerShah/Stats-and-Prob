@@ -140,3 +140,4 @@ $$F = \frac{\frac{SSG}{df_\text{groups}}}{\frac{SSI}{df_\text{internals}}}$$
 See,
 **Sum of Squares** is the foundational component of ANOVA. We just do sum of square and avoid taking average as we do in calculation of variance. *(SSG / SSI)*.
 
+# We are Done!
