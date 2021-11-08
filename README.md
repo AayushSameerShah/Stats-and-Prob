@@ -29,8 +29,17 @@ The worst side (again I want to emphasize) **the worst side** of github is that 
 all formulae, steps, solutions, equations written in LaTex are fail. They will not be rendered on GitHub. They will be presented in the plain
 freakin' text. 
 
-It would be much more handy if github could render those, and you will be able to read them here, directly without leaving github, but nah!
+It would be much more handy if github could render those, and you will be able to read them here, directly without leaving github, but nah! <br>
 Have a look at this image:
 [How It Should Look](https://i.imgur.com/CRwTBV8.png) <br>
 And then, see how GitHub renders it:
 [How It Should Not Look](https://i.imgur.com/i8WbgaJ.png)
+
+It messed all up! <br>
+**SOLUTION**: I would encourage you to add [Markdown Viwer Extention](https://chrome.google.com/webstore/detail/markdown-viewer/ckkdlimhmcjmikdlpkmbgfkaikojcbjk) in yout chrome. Clone this repository and render it there. This is an amazing renderer and gives a lot of themes to choose from. It will give the right experience of reading my files.
+
+## How to Start?
+You should start it as as journey which builds up on the old knowledge, so start from the first file `My Stats.md`. Of course it contatins the welcoming words for me, and some personal notes which I like to give to myself, and then follow the increasing order of the folders. Then end your stats journey with `STAꓕƧ.md` file.
+
+Huge Thanks for reading this far! Many exciting stuff is already in there. Check them out!
+**Aayush ∞ Shah**
