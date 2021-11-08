@@ -34,7 +34,7 @@ And then, see how GitHub renders it:
 [How It Should Not Look](https://i.imgur.com/i8WbgaJ.png)
 
 It messed all up! <br>
-**SOLUTION**: I would encourage you to add [Markdown Viewer Extention](https://chrome.google.com/webstore/detail/markdown-viewer/ckkdlimhmcjmikdlpkmbgfkaikojcbjk) in your chrome. Clone this repository and render it there. This is an amazing renderer and gives a lot of themes to choose from. It will give me the right experience of reading my files.
+**SOLUTION**: I would encourage you to add [Markdown Viewer Extention](https://chrome.google.com/webstore/detail/markdown-viewer/ckkdlimhmcjmikdlpkmbgfkaikojcbjk) in your chrome. Clone this repository and render it there. This is an amazing renderer and gives a lot of themes to choose from. It will give you the right experience of reading my files.
 
 ## ▶️ How to Start?
 You should start it as a journey that builds upon the old knowledge, so start from the first file `My Stats.md`. Of course, it contains the welcoming words for me, and some personal notes which I like to give to myself, and then follow the increasing order of the folders. Then end your stats journey with the `STAꓕƧ.md` file.
